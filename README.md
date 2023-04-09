@@ -1,27 +1,168 @@
-# FirstApp
+# Integradora II
+[![Contribuidores][contribuidores-shield]][contributors-url]
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+## contenido
+<details>
+  <summary>Tabla contenidos</summary>
+  <ol>
+    <li>
+      <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
+      <ul>
+        <li><a href="#descripción">Descripción</a></li>
+        <li><a href="#objetivos">Objetivos</a></li>
+        <li><a href="#organigrama">Organigrama</a></li>
+        <li><a href="#diagrama-gantt">Diagrama Gantt</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#análisis-de-la-solución">Análisis de la Solución</a>
+      <ul>
+        <li><a href="#requerimientos">Requerimientos</a></li>
+        <li><a href="#diagrama-casos-de-uso">Diagrama de Casos de Uso</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#diseño-de-la-solución">Diseño de la Solución</a>
+      <ul>
+        <li><a href="#modelo-relacional">Modelo Relacional</a></li>
+        <li><a href="#diagrama-de-clases">Diagrama de Clases</a></li>
+        <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
+      </ul>
+    </li>    
+    <li>
+      <a href="#implementación">Implementación</a>
+      <ul>
+        <li><a href="#estándares-codificación">Estándares Codificación</a></li>
+        <li><a href="#arquitectura">Arquitectura</a></li>
+        <li><a href="#código-fuente">Código Fuente</a></li>
+      </ul>
+    </li>      
+    <li>
+      <a href="#pruebas">Pruebas</a>
+      <ul>
+        <li><a href="#casos-de-prueba">Casos de prueba</a></li>
+        <li><a href="#ejecución">Ejecución</a></li>
+      </ul>
+    </li>       
+    <li><a href="#guias">Guias</a></li>
+    <li><a href="#contribucion">Contribución</a></li>
+    <li><a href="#licencia">licencia</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#participantes">Participantes</a></li>
+  </ol>
+</details>
 
-## Development server
+<!-- Acerca del proyecto -->
+## Acerca del proyecto
+Requisitos.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<!-- Descripción -->
+#### Descripción.
+Indicar la descripción del proyecto (tiempo, costo y calidad).
 
-## Code scaffolding
+<!-- Objetivos -->
+#### Objetivos.
+Indicar los objetivos del proyecto.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<!-- Organigrama -->
+#### Organigrama.
+Organigrama.
 
-## Build
+<!-- Diagrama Gantt -->
+#### Diagrama Gantt.
+Diagrama Gantt.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<!-- Análisis del proyecto -->
+## Análisis de la Solución.
+En ésta sección se indicará los artefactos generados en base a la solución.
 
-## Running unit tests
+<!-- Requerimientos -->
+#### Requerimientos.
+Listado de los requerimientos (código requerimiento, descripción)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<!-- Diagrama de Casos de Uso -->
+#### Diagrama Casos de Uso.
+Agregar la imagen de los Casos de Uso.
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+<!-- Diseño del proyecto -->
+## Diseño de la Solución.
+En ésta sección se indicará los artefactos generados en base a la solución.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<!-- Modelo Relacional -->
+#### Modelo Relacional.
+Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
+
+<!-- Diagrama de Clases -->
+#### Diagrama de Clases.
+Esquema de las clases empleadas (atributos y sus métodos).
+
+<!-- Diagrama de Componentes -->
+#### Diagrama de Componentes.
+Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
+
+
+<!-- Implementación del proyecto -->
+## Implementación.
+En ésta sección se describe  los artefactos generados en base a la solución.
+
+<!-- Estándares de Codificación -->
+#### Estándares Codificación.
+Estándares empleados en la codificación
+
+<!-- Arquitectura MVC y Middleware -->
+#### Arquitectura.
+Definir los patrones empleados y de seguridad.
+
+<!-- Código Fuente -->
+#### Código Fuente.
+Código Fuente de la solución
+
+
+<!-- Pruebas proyecto -->
+## Pruebas.
+En ésta sección se describe  los artefactos generados en base a la solución.
+
+<!-- Casos de prueba -->
+#### Casos de prueba.
+Indicar los casos de prueba
+
+<!-- Ejecución Casos de prueba -->
+#### Ejecución.
+Evidencia de Ejecución de Casos de prueba.
+
+
+<!-- Iniciando -->
+## Iniciando
+Iniciando.
+
+<!-- Requisitos -->
+### Requisitos
+Requisitos de Instalación.
+
+<!-- Instalación -->
+### Instalacion
+Instalación del Software
+
+
+## Guias
+Guias de Uso.
+
+## contribucion
+Contribucion.
+
+## Licencia
+Licencia.
+
+## Contacto
+Contacto.
+
+## Participantes
+* [participante 1]()
+* [participante 2]()
+* [participante 3]()
+
+[contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+
