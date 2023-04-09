@@ -83,6 +83,14 @@ Listado de los requerimientos (código requerimiento, descripción)
 <!-- Diagrama de Casos de Uso -->
 #### Diagrama Casos de Uso.
 Agregar la imagen de los Casos de Uso.
+Creador de contenido 
+![image](https://user-images.githubusercontent.com/114689978/230800302-ae0b9513-9078-409f-b8d3-767b885a5517.png)
+
+Usuario visinte
+![image](https://user-images.githubusercontent.com/114689978/230800340-739082db-d9ce-40b0-a004-fdc65beb6849.png)
+
+Administrador 
+![image](https://user-images.githubusercontent.com/114689978/230800346-21a5642c-c0e3-4383-8502-c044ccce57cb.png)
 
 
 
