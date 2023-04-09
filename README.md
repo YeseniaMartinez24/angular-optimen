@@ -103,8 +103,6 @@ Administrador
 ![image](https://user-images.githubusercontent.com/114689978/230800684-c7ac7538-7e2e-4c06-bf33-0a83363607fe.png)
 
 
-
-
 <!-- Diseño del proyecto -->
 ## Diseño de la Solución.
 En ésta sección se indicará los artefactos generados en base a la solución.
