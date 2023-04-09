@@ -110,24 +110,25 @@ En ésta sección se indicará los artefactos generados en base a la solución.
 <!-- Modelo Relacional -->
 #### Modelo Relacional.
 Esquema de la base de datos (nombre de campo, tipo de datos, restricciones, etc)
-Colección eventos
+Colección eventos      
 ![image](https://user-images.githubusercontent.com/114689978/230801441-5b678d3f-bb11-4a84-b2ef-fdd9a7e88503.png)
 
-Colección noticias 
+Colección noticias     
 ![image](https://user-images.githubusercontent.com/114689978/230801465-93270940-15f1-4c02-9ba1-c1c22552934e.png)
 
-Colección de usuarios
+Colección de usuarios     
 ![image](https://user-images.githubusercontent.com/114689978/230801477-492b196b-0842-442b-9a66-d9ac5dacbb68.png)
 
 
 <!-- Diagrama de Clases -->
 #### Diagrama de Clases.
 Evento 
+
 ![image](https://user-images.githubusercontent.com/114689978/230801508-4bb73b6f-295a-4a29-b977-e55b87f8bc8d.png)
 
 Noticias 
-![image](https://user-images.githubusercontent.com/114689978/230801518-fa29683e-e1c0-4b6c-9cdd-2e52077a18bf.png)
 
+![image](https://user-images.githubusercontent.com/114689978/230801518-fa29683e-e1c0-4b6c-9cdd-2e52077a18bf.png)
 
 
 <!-- Diagrama de Componentes -->
