@@ -26,6 +26,7 @@
         <li><a href="#modelo-relacional">Modelo Relacional</a></li>
         <li><a href="#diagrama-de-clases">Diagrama de Clases</a></li>
         <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
+        <li><a href="#diagrama-de-actividadess">Diagrama de Actividades</a></li>
       </ul>
     </li>    
     <li>
@@ -132,17 +133,12 @@ Noticias
 
 
 <!-- Diagrama de Componentes -->
-#### Diagrama de Componentes.
+#### Diagrama de Componentes
 Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servidor Web, Servidor de base de datos)
 
 ![image](https://user-images.githubusercontent.com/114689978/230801793-4bc4700f-82c0-4b81-b813-9c4420163a36.png)
 
-
-<!-- Implementación del proyecto -->
-## Implementación.
-En ésta sección se describe  los artefactos generados en base a la solución.
-
-## Diagrama de actividades
+#### Diagrama de actividades
 *Administrador root* 
 El administrador ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartados y brindar permisos y asi mismo podra quitar los permisos, en caso de que el administrador no ingresos los datos correctos la autenticación presentara una falla en el sistema.
 
@@ -158,6 +154,9 @@ El creador de contenido ingresa a la página, posteriormente inicia sesión si p
 
 ![image](https://user-images.githubusercontent.com/114689978/230805858-715933b7-5574-4c0e-beb0-e8dadfe3a433.png)
 
+<!-- Implementación del proyecto -->
+## Implementación.
+En ésta sección se describe  los artefactos generados en base a la solución.
 
 <!-- Estándares de Codificación -->
 #### Estándares Codificación.
