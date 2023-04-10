@@ -185,7 +185,44 @@ Antes de utilizar las nuevas funcionalidades de administración de contenido del
 <!-- Instalación -->
 ### Instalacion
 Instalación del Software
+1.	Haga clic en el botón verde "Code" en la página del repositorio y seleccione "Download ZIP" para descargar el archivo ZIP del código fuente.
+![image](https://user-images.githubusercontent.com/114689978/230803036-cbcbfbb3-b57b-4e2e-98be-bbabbce37f79.png)
 
+2.	Descomprima el archivo ZIP descargado en un directorio de su elección.
+![image](https://user-images.githubusercontent.com/114689978/230803059-8cca480a-5f69-429c-82d1-bf6135216a85.png)
+
+3.	Abra Visual Studio Code en su computadora y seleccione "File" en la barra de menú superior, luego seleccione "Open Folder". Navegue hasta el directorio donde descomprimió el código fuente y seleccione la carpeta del proyecto.
+![image](https://user-images.githubusercontent.com/114689978/230803078-a177f7ce-e3e5-40ba-b897-4df7510f95b6.png)
+
+4.	El proyecto requiere Node.js y npm. Si no los tiene instalados, debe descargarlos e instalarlos antes de continuar, sin embargo, si ya lo tiene puede pasar al paso 5
+4.1	Para instalar Node.js, visite el sitio web de Node.js y descargue la versión adecuada para su sistema operativo. Siga las instrucciones en pantalla para instalar Node.js en su computadora.
+4.2	npm se instalará automáticamente cuando instale Node.js.
+Una vez que tenga Node.js y npm instalados, abra una ventana de línea de comandos dentro de Visual Studio Code y navegue hasta el directorio donde descomprimió el código fuente.
+4.3	Ejecute el comando: npm install para instalar todas las dependencias necesarias.
+
+5.	Una vez que se hayan completado los pasos anteriores, puede instalar las dependencias del back-end y front-end. Abra un terminal con el comando: Ctrl + ñ
+![image](https://user-images.githubusercontent.com/114689978/230803263-f69ab093-590b-4863-8823-344d3a197685.png)
+
+6.	Entre a la carpeta de back-end usando el siguiente comando: cd back
+![image](https://user-images.githubusercontent.com/114689978/230803285-277776ed-e11a-4ea7-9f6d-8aff96069ce9.png)
+
+7. Ahora use el comando npm i para instalar las dependencias necesarias también debe instalar mongoose por lo que debe usar el siguiente comando: npm install mongoose –force y así mismo después se pueda levantar el servidor sin problema. 
+![image](https://user-images.githubusercontent.com/114689978/230803311-fe3fca7b-d26d-4330-8d34-7180e3e21e01.png)
+
+8. Ejecute el comando npm start para iniciar el servidor web, es muy importante que mantengamos un monitoreo constante de este archivo ya que este contiene la conexión a la base de datos.
+![image](https://user-images.githubusercontent.com/114689978/230803334-f42d1f8b-fdea-4831-901b-235ec94bdcf1.png)
+
+9. Se abre una pestaña nueva en la cual se usará el siguiente comando: cd frontend para entrar a la carpeta 
+y poder instalar las dependencias.
+![image](https://user-images.githubusercontent.com/114689978/230803355-719fa805-9324-4ae4-aa45-e32124f597cd.png)
+
+10. Ahora use el comando npm i para instalar las dependencias necesarias y cuando termine la descarga ahora use el comando npm start para levantar el front-end.
+![image](https://user-images.githubusercontent.com/114689978/230803399-3d648dfc-a3ad-4f44-aad3-1f28b4f6f0c9.png)
+
+11. Abra su navegador web y vaya a la dirección http://localhost:3000 para acceder al sitio web Optimen.
+![image](https://user-images.githubusercontent.com/114689978/230803422-a1a44a96-6e00-4d03-a4cb-c3f0aff05e4c.png)
+
+¡Eso es todo! Si ha seguido estos pasos, debería tener una instancia del proyecto Optimen Web Site ejecutándose en su computadora. 
 
 ## Guias
 Guias de Uso.
