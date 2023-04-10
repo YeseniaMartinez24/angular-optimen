@@ -142,6 +142,23 @@ Esquema de los componentes que interactúan (Modelo, Vista, Controlador, Servido
 ## Implementación.
 En ésta sección se describe  los artefactos generados en base a la solución.
 
+## Diagrama de actividades
+*Administrador root* 
+El administrador ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartados y brindar permisos y asi mismo podra quitar los permisos, en caso de que el administrador no ingresos los datos correctos la autenticación presentara una falla en el sistema.
+
+![image](https://user-images.githubusercontent.com/114689978/230805739-ce05f01d-3ae0-4470-966d-cb93b0044058.png)
+
+*Usuario visitante*
+El usuario visitante busca la página de optimen oficial y da clik sobre ella para entrar, tendrá la opción de navegar sin problemas dentro de la misma y poder abandonar la página.
+
+![image](https://user-images.githubusercontent.com/114689978/230805814-b14211d3-05d0-4728-8491-f2e63d5e3560.png)
+
+*Creador de contenido*
+El creador de contenido ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartado de agregar eventos o noticias nuevas, en caso de que el creador de contenido no ingrese los datos correctos la autenticación presentara una falla en el sistema y por lo tanto no podrá hacer modificaciones.
+
+![image](https://user-images.githubusercontent.com/114689978/230805858-715933b7-5574-4c0e-beb0-e8dadfe3a433.png)
+
+
 <!-- Estándares de Codificación -->
 #### Estándares Codificación.
 Estándares empleados en la codificación
