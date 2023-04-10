@@ -190,6 +190,7 @@ Instalación del Software
 ![image](https://user-images.githubusercontent.com/114689978/230803036-cbcbfbb3-b57b-4e2e-98be-bbabbce37f79.png)
 
 2.	Descomprima el archivo ZIP descargado en un directorio de su elección.
+
 ![image](https://user-images.githubusercontent.com/114689978/230803059-8cca480a-5f69-429c-82d1-bf6135216a85.png)
 
 3.	Abra Visual Studio Code en su computadora y seleccione "File" en la barra de menú superior, luego seleccione "Open Folder". Navegue hasta el directorio donde descomprimió el código fuente y seleccione la carpeta del proyecto.
@@ -207,6 +208,7 @@ Una vez que tenga Node.js y npm instalados, abra una ventana de línea de comand
 ![image](https://user-images.githubusercontent.com/114689978/230803263-f69ab093-590b-4863-8823-344d3a197685.png)
 
 6.	Entre a la carpeta de back-end usando el siguiente comando: cd back
+
 ![image](https://user-images.githubusercontent.com/114689978/230803285-277776ed-e11a-4ea7-9f6d-8aff96069ce9.png)
 
 7. Ahora use el comando npm i para instalar las dependencias necesarias también debe instalar mongoose por lo que debe usar el siguiente comando: npm install mongoose –force y así mismo después se pueda levantar el servidor sin problema. 
