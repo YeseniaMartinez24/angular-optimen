@@ -197,8 +197,7 @@ Instalación del Software
 
 ![image](https://user-images.githubusercontent.com/114689978/230803078-a177f7ce-e3e5-40ba-b897-4df7510f95b6.png)
 
-4.	El proyecto requiere Node.js y npm. Si no los tiene instalados, debe descargarlos e instalarlos antes de continuar, sin embargo, si ya lo tiene puede pasar al paso 5
-
+4.	El proyecto requiere Node.js y npm. Si no los tiene instalados, debe descargarlos e instalarlos antes de continuar, si ya lo tiene puede pasar al paso 5	
 4.1	Para instalar Node.js, visite el sitio web de Node.js y descargue la versión adecuada para su sistema operativo. Siga las instrucciones en pantalla para instalar Node.js en su computadora.
 
 4.2	npm se instalará automáticamente cuando instale Node.js.
